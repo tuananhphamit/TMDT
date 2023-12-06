@@ -91,8 +91,7 @@
   
   .headline {
     width: 100%;
-    height: 50vh;
-    min-height: 350px;
+    min-height: 450px;
     background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.7)), url('IMG/Baner.jpg');
     background-size: cover;
     display: flex;
@@ -363,28 +362,23 @@ h2 {
 .cart-button-style {
     border-style: none;
     position: fixed;
-    top: 0;
     right: 0;
     width: 10em;
     padding: 1em 1em;
     margin: 0.5em;
     background: #7762ff;
     color: black;
-    transition: background .5s;
     border-radius: 4px; 
 }
 
 .cart-button-style-two {
     border-style: none;
     position: fixed;
-    top: 0;
-    right: 0;
     width: 10em;
     padding: 1em 1em;
     margin: 0.5em;
     background: black;
     color: #7762ff;
-    transition: background .5s;
     border-radius: 4px; 
 }
 
